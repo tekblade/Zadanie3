@@ -1,5 +1,6 @@
-# Running application:
+# Program odbiera dane o pozycji gps i zapisuje je do systemu(aplikacja typu REST)
 
+# Running application:
 # cd Zadanie3/mvn clean package/mvn spring-boot:run
 
 # Dane odbierane od użytkowników systemu zapisujemy w Obiekcie typu Collection w czasie rzeczywistym działania programu.
