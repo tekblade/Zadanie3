@@ -1,4 +1,3 @@
-# After unziping change the folder name(delete "-master")
 ### Program odbiera dane o pozycji gps i zapisuje je do systemu(aplikacja typu REST)
 
 ### Running application:
